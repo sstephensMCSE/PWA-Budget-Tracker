@@ -1,7 +1,7 @@
 {
   "name": "budget-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "This project will demonstrate knowledge learned during Unit 18 of class. Progressive web apps are designed to add additional functionality to an existing web app.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
